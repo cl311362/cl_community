@@ -1,0 +1,5 @@
+2023-06-14 14:06:08,620 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:55] Starting LoggerTests using Java 1.8.0_281 on MSI with PID 20716 (started by CL in D:\1_developer_tools\0 开发\项目\仿牛客网\community)
+2023-06-14 14:06:08,621 INFO [main] c.n.c.LoggerTests [SpringApplication.java:631] No active profile set, falling back to 1 default profile: "default"
+2023-06-14 14:06:09,877 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2023-06-14 14:06:10,345 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:61] Started LoggerTests in 2.022 seconds (JVM running for 2.639)
+2023-06-14 14:06:10,492 INFO [main] c.n.c.LoggerTests [LoggerTests.java:22] info log

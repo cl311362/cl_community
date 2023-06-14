@@ -1,0 +1,12 @@
+2023-06-14 13:57:20.003  INFO 14668 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2023-06-14 13:57:20.660  WARN 14668 --- [main] com.nowcoder.community.LoggerTests       : warn log
+2023-06-14 13:57:20.660 ERROR 14668 --- [main] com.nowcoder.community.LoggerTests       : error log
+2023-06-14 13:58:03.638  INFO 15344 --- [main] com.nowcoder.community.LoggerTests       : Starting LoggerTests using Java 1.8.0_281 on MSI with PID 15344 (started by CL in D:\1_developer_tools\0 开发\项目\仿牛客网\community)
+2023-06-14 13:58:03.639 DEBUG 15344 --- [main] com.nowcoder.community.LoggerTests       : Running with Spring Boot v2.7.12, Spring v5.3.27
+2023-06-14 13:58:03.640  INFO 15344 --- [main] com.nowcoder.community.LoggerTests       : No active profile set, falling back to 1 default profile: "default"
+2023-06-14 13:58:04.910  INFO 15344 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2023-06-14 13:58:05.368  INFO 15344 --- [main] com.nowcoder.community.LoggerTests       : Started LoggerTests in 2.0 seconds (JVM running for 2.644)
+2023-06-14 13:58:05.540 DEBUG 15344 --- [main] com.nowcoder.community.LoggerTests       : debug log
+2023-06-14 13:58:05.541  INFO 15344 --- [main] com.nowcoder.community.LoggerTests       : info log
+2023-06-14 13:58:05.541  WARN 15344 --- [main] com.nowcoder.community.LoggerTests       : warn log
+2023-06-14 13:58:05.541 ERROR 15344 --- [main] com.nowcoder.community.LoggerTests       : error log
